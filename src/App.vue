@@ -1,6 +1,6 @@
 <template>
   <Provider>
-    <!-- 壁纸 -->
+    <!-- 壁纸 修改-->
     <Cover @loadComplete="loadComplete" />
     <!-- 主界面 -->
     <Transition name="fade" mode="out-in">
